@@ -79,3 +79,6 @@ netflix-dashboard-tableau/
 ├── README.md # Project documentation
 
 └── LICENSE # (Optional) Open-source license
+
+<img width="1920" height="1080" alt="Tableau Public - NETFLIX DASHBOARD Tableau v10  7_16_2025 5_49_40 PM" src="https://github.com/user-attachments/assets/97f13927-e4b1-4581-93f6-321d7955bd25" />
+

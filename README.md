@@ -61,10 +61,21 @@ The **"Netflix Dashboard"** project leverages Tableau's powerful visualization c
 
 ## 📂 Repository Structure
 netflix-dashboard-tableau/
+
+
+
+
+
+
 ├── Netflix_Dashboard.twbx # Tableau workbook file (packaged)
+
 ├── data/
+
 │ └── netflix_titles.csv # Original dataset
 ├── images/
+
 │ └── dashboard_preview.png # Screenshot of Tableau dashboard
+
 ├── README.md # Project documentation
+
 └── LICENSE # (Optional) Open-source license

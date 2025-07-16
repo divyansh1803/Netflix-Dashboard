@@ -1,4 +1,3 @@
-# Netflix-Dashboard
 
 # 🎬 Netflix Dashboard (Tableau)
 
